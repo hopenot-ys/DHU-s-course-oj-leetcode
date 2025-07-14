@@ -21,6 +21,7 @@
   <ItemGroup>
     <ClCompile Include="linkedlist\hw-01-create-and-search.cpp" />
     <ClCompile Include="linkedlist\hw-02.cpp" />
+    <ClCompile Include="linkedlist\hw-03-delete.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>

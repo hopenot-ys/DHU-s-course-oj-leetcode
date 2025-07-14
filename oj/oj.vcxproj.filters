@@ -24,5 +24,8 @@
     <ClCompile Include="linkedlist\hw-02.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="linkedlist\hw-03-delete.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
