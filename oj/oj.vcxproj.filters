@@ -13,10 +13,13 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="linkedlist">
+      <UniqueIdentifier>{7978b6d2-3e3c-49c8-9bbb-1a51f6a61e06}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="oj course.cpp">
-      <Filter>Resource Files</Filter>
+    <ClCompile Include="linkedlist\hw-01-create-and-search.cpp">
+      <Filter>linkedlist</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
