@@ -12,38 +12,38 @@ struct Node
 Node* CreateLinkedList(int num, int* student_ID);
 int Locate(Node* head, int ID);
 
-int main()
-{
-	int num;
-
-	vector<int> vec_in;
-	int read_num = NULL;
-	while (std::cin >> read_num)
-	{
-		vec_in.push_back(read_num);
-		if (cin.get() == '\n')
-		{
-			break;
-		}
-	}
-
-	num = vec_in[0];
-	int* student_ID = new int[num];
-	for (int i = 0; i < num; i++)
-	{
-		student_ID[i] = vec_in[i + 1];
-	}
-
-	Node* head = CreateLinkedList(num, student_ID);
-
-	int ID = 0;
-	while (cin >> ID)
-	{
-		Locate(head, ID);
-	}
-
-	return 0;
-}
+//int main()
+//{
+//	int num;
+//
+//	vector<int> vec_in;
+//	int read_num = NULL;
+//	while (std::cin >> read_num)
+//	{
+//		vec_in.push_back(read_num);
+//		if (cin.get() == '\n')
+//		{
+//			break;
+//		}
+//	}
+//
+//	num = vec_in[0];
+//	int* student_ID = new int[num];
+//	for (int i = 0; i < num; i++)
+//	{
+//		student_ID[i] = vec_in[i + 1];
+//	}
+//
+//	Node* head = CreateLinkedList(num, student_ID);
+//
+//	int ID = 0;
+//	while (cin >> ID)
+//	{
+//		Locate(head, ID);
+//	}
+//
+//	return 0;
+//}
 
 Node* CreateLinkedList(int num, int* student_ID)
 {
