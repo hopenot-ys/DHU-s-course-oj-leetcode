@@ -22,9 +22,12 @@
       <Filter>linkedlist</Filter>
     </ClCompile>
     <ClCompile Include="linkedlist\hw-02.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>linkedlist</Filter>
     </ClCompile>
     <ClCompile Include="linkedlist\hw-03-delete.cpp">
+      <Filter>linkedlist</Filter>
+    </ClCompile>
+    <ClCompile Include="linkedlist\hw-04.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
