@@ -23,6 +23,9 @@
     <ClCompile Include="linkedlist\hw-02.cpp" />
     <ClCompile Include="linkedlist\hw-03-delete.cpp" />
     <ClCompile Include="linkedlist\hw-04.cpp" />
+    <ClCompile Include="linkedlist\hw-05.cpp" />
+    <ClCompile Include="linkedlist\hw-06%28WA%29.cpp" />
+    <ClCompile Include="linkedlist\hw-06.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
