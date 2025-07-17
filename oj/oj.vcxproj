@@ -26,6 +26,8 @@
     <ClCompile Include="linkedlist\hw-05.cpp" />
     <ClCompile Include="linkedlist\hw-06%28WA%29.cpp" />
     <ClCompile Include="linkedlist\hw-06.cpp" />
+    <ClCompile Include="linkedlist\leetcode-01.cpp" />
+    <ClCompile Include="linkedlist\leetcode-02.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
