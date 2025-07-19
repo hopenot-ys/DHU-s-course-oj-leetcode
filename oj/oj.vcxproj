@@ -29,6 +29,13 @@
     <ClCompile Include="linkedlist\leetcode-01.cpp" />
     <ClCompile Include="linkedlist\leetcode-02.cpp" />
     <ClCompile Include="linkedlist\leetcode-03.cpp" />
+    <ClCompile Include="linkedlist\leetcode-04.cpp" />
+    <ClCompile Include="linkedlist\leetcode-05.cpp" />
+    <ClCompile Include="linkedlist\leetcode-06.cpp" />
+    <ClCompile Include="linkedlist\leetcode-07.cpp" />
+    <ClCompile Include="linkedlist\leetcode-08.cpp" />
+    <ClCompile Include="linkedlist\leetcode-09.cpp" />
+    <ClCompile Include="linkedlist\leetcode-11-( ).cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
